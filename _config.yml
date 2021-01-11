@@ -1,5 +1,5 @@
 locale: "zh_CN"
-title: Strata # Title of your site
+title: 人才七班 # Title of your site
 url: "https://github.com/06486/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
