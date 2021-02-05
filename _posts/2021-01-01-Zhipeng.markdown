@@ -1,6 +1,7 @@
 ---
 layout: post
+title: Zhipeng
+date: 2021-01-01T00:00:00.000Z
+categories: update
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
-
-新疆大小伙，无辣不欢，肌肉感
+<img src="/images/fulls/03.jpg" class="fit image"> 新疆大小伙，无辣不欢，高考烤肉串考砸了才来现在的大学
